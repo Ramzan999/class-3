@@ -1,9 +1,9 @@
 "use strict";
-let x = 10;
-if (x > 0) {
-    console.log("x is positive");
+let u = 10;
+if (u > 0) {
+    console.log("u is positive");
 }
 else {
-    console.log("x is negative or zero");
+    console.log("u is negative or zero");
 }
 ;
