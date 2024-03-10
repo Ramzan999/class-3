@@ -1,6 +1,6 @@
-let u = 10;
-if (u > 0) {
-    console.log("u is positive")
+let x = 10;
+if (x > 0) {
+    console.log("x is positive")
 } else {
-    console.log("u is negative or zero")
+    console.log("x is negative or zero")
 };

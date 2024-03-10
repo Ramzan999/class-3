@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // Assign a value to a variable based on a condition //
 let x = 10;
 let y = x > 0 ? "Positive" : "Negative or Zero";
