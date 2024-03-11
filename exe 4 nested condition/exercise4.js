@@ -1,4 +1,6 @@
-var score = 85;
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let score = 85;
 if (score >= 0 && score <= 100) {
     if (score <= 90) {
         console.log("Your grade is A");
